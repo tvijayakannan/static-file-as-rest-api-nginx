@@ -1,0 +1,7 @@
+---
+applications:
+- name: static-file-as-api
+  memory: 128M
+  buildpacks:
+  - staticfile_buildpack
+  
